@@ -1,0 +1,8 @@
+google-genai
+gradio
+numpy
+opencv-python
+torch
+transformers
+Pillow
+ultralytics
