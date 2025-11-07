@@ -1,6 +1,6 @@
 # JTH_TKAAA
 
-This repository contains implementations of various computer vision algorithms in the course "JTH_TKAAA - Computer Vision" 
+This repository contains implementations of various computer vision algorithms in the course "JTH_T2KAAA - Building Advanced AI Systems" 
 at Jönköping University.
 
 First install the requirements:
